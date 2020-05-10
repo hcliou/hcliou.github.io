@@ -1,7 +1,7 @@
 ---
 title: "Modeling Friendship Networks among Agents with Personality Traits"
 collection: publications
-permalink: /publication/2020-friendship-net-with-personality.md
+permalink: /publication/2020-friendship-net-with-personality
 excerpt: 'This paper is about the friendship networks'
 date: 2020-04-20
 venue: 'arXiv'
