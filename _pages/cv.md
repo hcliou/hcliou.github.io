@@ -29,9 +29,9 @@ Skills
 * Computer Programming
   * Python
     * NetworkX
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * C++
+  * MATLAB
+* Algorithm Analysis
 
 Publications
 ======
