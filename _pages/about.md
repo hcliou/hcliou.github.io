@@ -13,7 +13,6 @@ My learning and research experiences span across many disciplines. Currently, my
 
 Here is my [curriculum vitae](https://heng-chien-liou.weebly.com/uploads/1/2/5/1/125164166/cv20190528.pdf)
 
-This is my page
-======
+
 
 
