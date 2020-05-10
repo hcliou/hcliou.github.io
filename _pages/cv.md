@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,27 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.Eng in  Electrical Engineering, National Taiwan University, 2021 (expected)
+* B.S. in Psychology, National Taiwan University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Researcher in Computational Sociology, Feb. 2020 - present
+  * Institute of Sociology, Academia Sinica
+  * Supervisor: Professor Hsuan-Wei Lee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Researcher in Algorithmic Fairness, Sep. 2020 - present
+  * Collective Algorithm Lab, NTUEE
+  * Supervisor: Professor Ho-Lin Chen
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Computer Programming
+  * Python
+    * NetworkX
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
@@ -41,19 +38,18 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+<!---  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
+
