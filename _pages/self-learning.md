@@ -9,45 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+A large proportion of the skills and knowledges I have are acquired through self-learning. Outside of classroom, I learn through online courses and extensive readings.
 
+I keep the records in following pages: 
 
-<!---
-Education
-======
-* B.S.Eng in  Electrical Engineering, National Taiwan University, 2021 (expected)
-* B.S. in Psychology, National Taiwan University, 2021 (expected)
-Work experience
-======
-* Undergraduate Researcher in Computational Sociology, Feb. 2020 - present
-  * Institute of Sociology, Academia Sinica
-  * Supervisor: Professor Hsuan-Wei Lee
-
-* Undergraduate Researcher in Algorithmic Fairness, Sep. 2020 - present
-  * Collective Algorithm Lab, NTUEE
-  * Supervisor: Professor Ho-Lin Chen
-Skills
-======
-* Computer Programming
-  * Python
-    * NetworkX
-  * C++
-  * MATLAB
-* Algorithm Analysis
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
- 
-
+* [Online Courses](/self-learning/online-courses)
+* [Readings](/self-learning/online-courses)
