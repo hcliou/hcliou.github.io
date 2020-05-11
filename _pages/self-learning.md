@@ -14,4 +14,4 @@ A large proportion of the skills and knowledges I have are acquired through self
 I keep the records in following pages: 
 
 * [Online Courses](/self-learning/online-courses)
-* [Readings](/self-learning/online-courses)
+* [Readings](/self-learning/readings)
