@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<!---
+
 Education
 ======
 * B.S.Eng in  Electrical Engineering, National Taiwan University, 2021 (expected)
@@ -39,7 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
