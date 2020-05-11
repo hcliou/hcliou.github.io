@@ -8,12 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!---
 Education
 ======
 * B.S.Eng in  Electrical Engineering, National Taiwan University, 2021 (expected)
 * B.S. in Psychology, National Taiwan University, 2021 (expected)
-
 Work experience
 ======
 * Undergraduate Researcher in Computational Sociology, Feb. 2020 - present
@@ -23,7 +22,6 @@ Work experience
 * Undergraduate Researcher in Algorithmic Fairness, Sep. 2020 - present
   * Collective Algorithm Lab, NTUEE
   * Supervisor: Professor Ho-Lin Chen
-  
 Skills
 ======
 * Computer Programming
@@ -32,14 +30,11 @@ Skills
   * C++
   * MATLAB
 * Algorithm Analysis
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
