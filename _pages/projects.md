@@ -22,7 +22,6 @@ Advisor: Hung-Yun Hsieh
 
 
 ## Algorithmic Fairness on Social Networks
-
 Advisor: Prof. Ho-Lin Chen
 
 ## Information Theory in Network Science
