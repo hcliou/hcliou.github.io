@@ -86,7 +86,7 @@ author:
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : # ""
-  googlescholar    : "https://scholar.google.com/citations?user=exOp9McAAAAJ&hl=en&authuser=2"
+  googlescholar    : https://scholar.google.com/citations?user=exOp9McAAAAJ&hl=en&oi=ao
   email            : "liouhengchien@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
