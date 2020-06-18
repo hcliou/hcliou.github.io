@@ -28,10 +28,13 @@ redirect_from:
 
 #### Political Science
 * [Moral Foundations of Politics](https://coursera.org/share/00bf0f0686e83fa25808c91c9c839b89)
+
 #### Anthropology
 * [World101x: Anthropology of Current World Issues](https://courses.edx.org/certificates/e559f232fb0e4b49a1d715f7d9fd928a)
+
 #### Economics
 * [Game Theory](https://coursera.org/share/9e772ab29af721e365ea75caa02bf8b1)
+
 #### Research Method
 * [SOCRMx: Introduction to Social Research Methods](https://courses.edx.org/certificates/8c4d4bb6337a4c589f7d9af7d9f2f1da)
 
