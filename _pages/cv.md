@@ -14,7 +14,7 @@ Education
 * B.S.Eng in  Electrical Engineering, National Taiwan University, 2021 (expected)
 * B.S. in Psychology, National Taiwan University, 2021 (expected)
 
-Work experience
+Research experience
 ======
 * Undergraduate Researcher in Computational Sociology, Feb. 2020 - present
   * Institute of Sociology, Academia Sinica
@@ -24,11 +24,15 @@ Work experience
   * Collective Algorithm Lab, NTUEE
   * Supervisor: Professor Ho-Lin Chen
   
+* Undergraduate Researcher in Network Science, Jul. 2019 - Apr. 2020
+  * National Taiwan University Mobile Networks and Wireless Communications (TONIC) Research Group
+  * Supervisor: Professor Hung-Yun Hsieh
+  
 Skills
 ======
 * Computer Programming
   * Python
-    * NetworkX
+    * NetworkX, graph-tool
   * C++
   * MATLAB
 * Algorithm Analysis
