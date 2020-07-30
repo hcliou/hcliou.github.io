@@ -6,11 +6,11 @@ excerpt: ''
 date: 2020-04-20
 venue: 'SocArXiv'
 paperurl: 'https://osf.io/preprints/socarxiv/c2htn/'
-citation: 'Liou, Heng-Chien. 2020. "Review Essay on Charles Kadushin 2012. Understanding Social Networks: Theories, Concepts, and Findings." *SocArXiv. July 29.*'
+citation: 'Liou, Heng-Chien. 2020. “Review Essay on Charles Kadushin 2012. Understanding Social Networks: Theories, Concepts, and Findings.” SocArXiv. July 29. doi:10.31235/osf.io/c2htn.'
 
 ---
 
 
 [Download paper here](https://leohcliou.github.io/files/review_kadushin_2012.pdf)
 
-Recommended citation: Liou, Heng-Chien. 2020. "Review Essay on Charles Kadushin 2012. Understanding Social Networks: Theories, Concepts, and Findings." *SocArXiv  July 29.*.
+Recommended citation: Liou, Heng-Chien. 2020. “Review Essay on Charles Kadushin 2012. Understanding Social Networks: Theories, Concepts, and Findings.” SocArXiv. July 29. doi:10.31235/osf.io/c2htn.
