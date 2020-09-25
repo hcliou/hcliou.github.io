@@ -16,7 +16,7 @@ main:
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
-  - title: "Self-Learning"
+  - title: "Learning"
     url: /learning/
     
   - title: "Short CV"
