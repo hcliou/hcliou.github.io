@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Readings"
-permalink: /self-learning/readings/
+permalink: /learning/readings/
 author_profile: true
 redirect_from:
 
