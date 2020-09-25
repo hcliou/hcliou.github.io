@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Self-Learning"
-permalink: /self-learning/
+title: "Learning"
+permalink: /learning/
 author_profile: true
 redirect_from:
 
@@ -13,5 +13,5 @@ A large proportion of the skills and knowledges I have are acquired through self
 
 I keep the records in following pages: 
 
-* [Online Courses](/self-learning/online-courses)
-* [Readings](/self-learning/readings)
+* [Online Courses](/learning/online-courses)
+* [Readings](/learning/readings)
