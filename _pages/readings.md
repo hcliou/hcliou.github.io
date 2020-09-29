@@ -19,11 +19,9 @@ redirect_from:
 
 #### Psychology
 
-##### Abnormal and Clinical Psychology
+(sorted and named according to the division order in American Psychological Association.)
 
-* Barlow, David H., Vincent Mark Durand, and Stefan G. Hofmann. 2017. _Abnormal Psychology: An Integrative Approach._ Cengage Learning.
-
-##### Applied Statistics and Research Methods
+##### Quantitative and Qualitative Methods
 
 * Howell, David C. 2012. _Statistical methods for psychology._ Cengage Learning.
 
@@ -33,5 +31,9 @@ redirect_from:
 * Funder, David C. 2015. _The personality puzzle: Seventh international student edition._ WW Norton & Company.
 * Kassin, Saul, Steven Fein, and Hazel Rose Markus. 2011. _Social Psychology._ Houghton Mifflin Company. 
 * McAdams, Dan P. 2015. _The art and science of personality development._ Guilford Publications.
+
+##### Clinical Psychology
+
+* Barlow, David H., Vincent Mark Durand, and Stefan G. Hofmann. 2017. _Abnormal Psychology: An Integrative Approach._ Cengage Learning.
 
 
