@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm an undergraduate student in National Taiwan University, with a double major in Electrical Engineering and Psychology. 
 
-My learning and research experiences span across many disciplines. Particularly, I learn and practice **engineering**, **computer science**, **psychology**, and **sociology**. Currently, my works focus on Computational Social Science, Algorithmic Fairness, and Network Science. I have been fortunate to work under the supervision of Prof. Hung-Yun Hsieh, Prof. Ho-Lin Chen, and Dr. Hsuan-Wei Lee during my undergraduate study.  
+My learning and research experiences span across many disciplines. Particularly, I learn and practice **engineering**, **computer science**, **psychology**, and **sociology**. Broadly Speaking, I am interested in works that bridge between computer science and social science (parapharesd from [Prof. Ashton Anderson](http://www.cs.toronto.edu/~ashton/)). I have been fortunate to work under the supervision of Prof. Hung-Yun Hsieh, Prof. Ho-Lin Chen, and Dr. Hsuan-Wei Lee during my undergraduate study. Some relevant keywords are: *computational social science*, *algorithmic fairness*, *network science*. 
 
 Here is my [curriculum vitae](https://leohcliou.github.io/files/CV20200511.pdf)
 
