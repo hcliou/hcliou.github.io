@@ -9,9 +9,9 @@ redirect_from:
 ---
 I'm an undergraduate student in National Taiwan University, with a double major in Electrical Engineering and Psychology. 
 
-My learning and research experiences span across many disciplines. Particularly, I learn and practice **engineering**, **computer science**, **psychology**, and **sociology**. Broadly Speaking, I am interested in works that bridge between different displines, computer science and social science specifically. I have been fortunate to work under the supervision of <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Prof. Hung-Yun Hsieh</a>, [Prof. Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129){:target="_blank"}, and [Dr. Hsuan-Wei Lee](https://sites.google.com/view/hsuanweilee/){:target="_blank"} during my undergraduate study. Some relevant keywords are: *computational social science*, *algorithmic fairness*, *network science*. 
+My learning and research experiences span across many disciplines. Particularly, I learn and practice **engineering**, **computer science**, **psychology**, and **sociology**. Broadly Speaking, I am interested in works that bridge between different displines, computer science and social science specifically. I have been fortunate to work under the supervision of <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Prof. Hung-Yun Hsieh</a>, <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Prof. Ho-Lin Chen</a>, and <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Dr. Hsuan-Wei Lee</a> during my undergraduate study. Some relevant keywords are: *computational social science*, *algorithmic fairness*, *network science*. 
 
-Here is my [curriculum vitae](https://leohcliou.github.io/files/CV20201118.pdf){:target="_blank"}
+Here is my <a href="/files/CV20201118.pdf" target="_blank">curriculum vitae</a>
 
 # Publications 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*.
