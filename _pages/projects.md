@@ -13,7 +13,7 @@ redirect_from:
 
 ## Computational Social Science
 
-motivated by my study in [networks cience](/##network-science)
+motivated by my study in [networks cience](/#network-science)
 
 Advisor: Dr. Hsuan-Wei Lee
 ## Algorithmic Fairness
