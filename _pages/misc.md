@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Miscellan"
-permalink: /learning/misc/
+permalink: /misc/
 author_profile: true
 redirect_from:
 
