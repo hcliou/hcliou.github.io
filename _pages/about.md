@@ -11,7 +11,7 @@ I'm an undergraduate student in National Taiwan University, with a double major 
 
 My learning and research experiences span across many disciplines. Particularly, I learn and practice **engineering**, **computer science**, **psychology**, and **sociology**. Broadly Speaking, I am interested in works that bridge between different displines, computer science and social science specifically. I have been fortunate to work under the supervision of [Prof. Hung-Yun Hsieh](http://ccf.ee.ntu.edu.tw/~hyhsieh/), [Prof. Ho-Lin Chen](https://www.ee.ntu.edu.tw/profile1.php?id=100129), and [Dr. Hsuan-Wei Lee](https://sites.google.com/view/hsuanweilee/) during my undergraduate study. Some relevant keywords are: *computational social science*, *algorithmic fairness*, *network science*. 
 
-Here is my [curriculum vitae](https://leohcliou.github.io/files/CV20201118.pdf)
+Here is my [curriculum vitae](https://leohcliou.github.io/files/CV20201118.pdf){:target="_blank"}
 
 # Publications 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*.
