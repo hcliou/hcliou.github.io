@@ -9,7 +9,7 @@ redirect_from:
 
 ## Articles
 
-I was once a student writter in a student media called "Viking Bar" （維京人酒吧）, and some of the articles are republished in other media, here are the ones that I can find. All of them are written in Traditional Chinese. 
+I was once a student writter in a student media called "Viking Bar" （維京人酒吧）, and some of the articles are republished in other media. Here are the ones that I can find. All of them are written in Traditional Chinese. 
 
 ### Techonology
 
