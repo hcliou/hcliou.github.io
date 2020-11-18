@@ -11,14 +11,14 @@ redirect_from:
 
 
 
-## Computational Social Science
+## <a name="computational-social-science"></a>Computational Social Science
 
-motivated by my study in [networks cience](/#network-science)
+motivated by my study in [networks cience](/projects/#network-science)
 
 Advisor: Dr. Hsuan-Wei Lee
-## Algorithmic Fairness
+## <a name="algorithmic-fairness"></a>Algorithmic Fairness
 Advisor: Prof. Ho-Lin Chen
 
-## Network Science
+## <a name="network-science"></a>Network Science
 Advisor: Hung-Yun Hsieh
 
