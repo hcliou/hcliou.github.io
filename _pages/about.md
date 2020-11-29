@@ -14,7 +14,7 @@ My learning and research experiences span across many disciplines. Particularly,
 Here is my <a href="/files/CV20201118.pdf" target="_blank">curriculum vitae</a>
 
 # Publications 
-* **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]
+* **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]\[[TSA2020](/files/slides/TSA2020slides_1129)\]
 * **Heng-Chien Liou**, and Hung-Yun Hsieh. 2020. "Modeling Friendship Networks among Agents with Personality Traits." *arXiv preprint arXiv:2004.12901*. \[[arXiv](https://arxiv.org/abs/2004.12901)\]
 
 
