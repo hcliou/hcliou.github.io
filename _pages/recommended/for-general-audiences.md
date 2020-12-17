@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+## Humanities
+
+### Philosophy
+
+* Nehamas, Alexander. 2016. On friendship. Basic Books.
+  *  亞歷山大．內哈瑪斯著、林紋沛譯，2018，論友誼：穿梭哲學、藝術、文學、影劇，探尋歷史河流中的友情真相。網路與書出版。
+
 ## Formal Science
 
 ### Computer Science
