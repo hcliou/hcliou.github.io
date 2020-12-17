@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Recommended Resources for General Audiences"
-permalink: /recommended-resources/for-general-audiences
+permalink: /recommended-resources/for-general-audience
 author_profile: true
 redirect_from:
 
