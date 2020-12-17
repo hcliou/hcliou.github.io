@@ -18,6 +18,8 @@ main:
 #     url: /year-archive/
   - title: "Learning"
     url: /learning/
+  - title: "Resources"
+    url: /recommended-resources/
     
 #  - title: "Short CV"
 #    url: /cv/
