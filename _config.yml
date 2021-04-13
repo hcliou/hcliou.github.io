@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heng-Chien Liou"
+title                    : "Heng-Chien 'Leo' Liou"
 title_separator          : "-"
 name                     : &name "Heng-Chien Liou"
 description              : &description "Undergraduate Researcher"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Heng-Chien Liou"
+  name             : "Heng-Chien 'Leo' Liou"
   avatar           : "ee_undergrad_copy.jpg"
   bio              : "Researcher"
   location         : "Taipei, Taiwan"
