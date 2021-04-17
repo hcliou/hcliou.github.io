@@ -11,7 +11,7 @@ I'm an undergraduate student in National Taiwan University, with a major in Elec
 
 My learning and research experiences span across many disciplines. Particularly, I learn and practice **electrical engineering**, **computer science**, **psychology**, and **sociology**. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. 
 
-I have been fortunate to work under the supervision of <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Prof. Hung-Yun Hsieh</a>, <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Prof. Ho-Lin Chen</a>, and <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Dr. Hsuan-Wei Lee</a> during my undergraduate study. 
+I have been fortunate to work under the supervision of Prof. <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Hung-Yun Hsieh</a>, Prof. <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Ho-Lin Chen</a>, and Dr. <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Hsuan-Wei Lee</a> during my undergraduate study. 
 
 Keywords: *network science*, *computational social science*, *algorithmic fairness*. 
 
