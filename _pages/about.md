@@ -17,11 +17,11 @@ Keywords: *network science*, *data science*, *computational social science*, *al
 
 Here is my <a href="/files/CV20210612.pdf" target="_blank">curriculum vitae</a> (last update: June 2021), and here is a longer, and more tedious, [biography](/longbio/). 
 
-# Publications 
+## Publications 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]\[[TSA2020](/files/slides/TSA2020slide_1129.pdf)\]
 * **Heng-Chien Liou**, and Hung-Yun Hsieh. 2020. "Modeling Friendship Networks among Agents with Personality Traits." *arXiv preprint arXiv:2004.12901*. \[[arXiv](https://arxiv.org/abs/2004.12901)\]
 
-# Trivia
+## Trivia
 
 In my not-so-leisure time, I would devote my time to the following topics: 
 
