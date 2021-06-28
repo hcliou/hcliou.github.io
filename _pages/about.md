@@ -23,8 +23,8 @@ Here is my <a href="/files/CV20210612.pdf" target="_blank">curriculum vitae</a> 
 
 ## Trivia
 
-In my not-so-leisure time, I would devote my time to the following topics: 
-
+1. In my not-so-leisure time, I would devote my time to the following topics: 
+2. T
 * Physics
 * Psychology: especially Critical Psychology and other nonmainstream approaches
 * Sociology: theory and some emerging topics, such as emotion and friendship
