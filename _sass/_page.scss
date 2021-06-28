@@ -36,6 +36,7 @@
 }
 
 .page__title {
+  padding-top: $masthead-height; 
   margin-top: 0;
   line-height: 1;
 
@@ -50,7 +51,7 @@
 }
 
 .page__content {
-  padding-top: $masthead-height; 
+//   padding-top: $masthead-height; 
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
