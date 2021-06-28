@@ -24,9 +24,9 @@ Here is my <a href="/files/CV20210612.pdf" target="_blank">curriculum vitae</a> 
 ## Trivia
 
 1. In my not-so-leisure time, I would devote my time to the following topics: 
-2. T
-* Physics
-* Psychology: especially Critical Psychology and other nonmainstream approaches
-* Sociology: theory and some emerging topics, such as emotion and friendship
+   * Physics
+   * Psychology: especially Critical Psychology and other nonmainstream approaches
+   * Sociology: theory and some emerging topics, such as emotion and friendship
+2. This website is currently designed with the color used in the [Penn logo](https://branding.web-resources.upenn.edu/elements-penn-logo).
 
 
