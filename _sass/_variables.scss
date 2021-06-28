@@ -71,7 +71,11 @@ $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
 
 $type-color-1               : #990000;
-$type-color-2               : #990000;
+$type-color-2               : mix(#fff, $type-color-1, 10%);
+$type-color-3               : mix(#fff, $type-color-1, 20%);
+$type-color-4               : mix(#fff, $type-color-1, 30%);
+$type-color-5               : mix(#fff, $type-color-1, 40%);
+$type-color-6               : mix(#fff, $type-color-1, 50%);
 
 /* brands */
 $behance-color              : #1769FF;
