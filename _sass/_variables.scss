@@ -53,6 +53,9 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+$thematic-color-1           : #011F5B;
+$thematic-color-2           : #990000;
+
 $body-color                 : #fff;
 // $body-color                 : rgba(153, 0, 0, 0.2);
 $background-color           : #fff;
@@ -70,7 +73,7 @@ $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
 
-$type-color-1               : #990000;
+$type-color-1               : $thematic-color-1;
 $type-color-2               : mix(#fff, $type-color-1, 10%);
 $type-color-3               : mix(#fff, $type-color-1, 20%);
 $type-color-4               : mix(#fff, $type-color-1, 30%);
