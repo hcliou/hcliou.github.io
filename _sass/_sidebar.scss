@@ -12,7 +12,7 @@
 
   @include clearfix();
 //   position: fixed;
-//   padding-top: $masthead-height;
+  padding-top: $masthead-height;
   margin-bottom: 1em;
 
   @include breakpoint($large) {
