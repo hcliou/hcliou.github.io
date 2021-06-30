@@ -15,7 +15,7 @@ I have been fortunate to work under the supervision of Prof. <a href="http://ccf
 
 Keywords: *network science*, *data science*, *computational social science*, *algorithmic fairness*. 
 
-Here is my <a href="/files/CV20210612.pdf" target="_blank">curriculum vitae</a> (last update: June 2021), and here is a longer, and more tedious, [biography](/longbio/). 
+Here is my <a href="/files/CV20210630.pdf" target="_blank">curriculum vitae</a> (last update: June 30th, 2021), and here is a longer, and more tedious, [biography](/longbio/). 
 
 ## Publications 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]\[[TSA2020](/files/slides/TSA2020slide_1129.pdf)\]
