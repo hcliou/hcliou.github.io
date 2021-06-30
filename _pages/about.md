@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a student/researcher from Taiwan. I recently received my B.S.E. in <font color="#135ccf">Electrical Engineering</font> from <font color="rgb(188, 150, 49)">National Taiwan University</font>. 
+I'm a student/researcher from Taiwan. I recently received my B.S.E. in <font color="#135ccf">Electrical Engineering</font> from <font color="bc9631">National Taiwan University</font>. 
+
+I'm a student/researcher from Taiwan. I recently received my B.S.E. in <p style="color:#135ccf">Electrical Engineering</p> from <p style="color:#135ccf">National Taiwan University</p>. 
 
 My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Network and Data Science**. 
 
