@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a student/researcher from Taiwan. I recently received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from <span style="color:#bc9631;">National Taiwan University</span>. 
 
-My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Network and Data Science**. 
+My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Network Science**, and many other topics related to networks. 
 
 I have been fortunate to work under the supervision of Prof. <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Hung-Yun Hsieh</a>, Prof. <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Ho-Lin Chen</a>, and Dr. <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Hsuan-Wei Lee</a> during my undergraduate study. 
 
