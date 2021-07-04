@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a student/researcher from Taiwan. I recently received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from <span style="color:#bc9631;">National Taiwan University</span>. 
+I'm a student/researcher from Taiwan. I recently received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from College of Electrical Engineering and Computer Science, <span style="color:#bc9631;">National Taiwan University (NTU)</span>. During my time in NTU, I also actively took courses in <span style="color:#FFDF00;">Psychology</span> and  <span style="color:#800080;">Sociology</span>.  
 
 My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Network Science**, and many other topics related to networks. 
 
