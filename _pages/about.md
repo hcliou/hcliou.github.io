@@ -20,7 +20,7 @@ Here is my <a href="/files/CV20210630.pdf" target="_blank">curriculum vitae</a> 
 ## Education
 | Degree/Diploma/Program | Major/Concentration | Insitute |
 | ------- | ------- | ------------- |
-| Bachelor of Scinece in Engineering |Electrical Engineering |National Taiwan University |
+| Bachelor of Scinece in Engineering | Electrical Engineering | National Taiwan University |
 | Summer Program | Design Thinking | University of British Columbia |
 | High School Diploma | Mathematic and Natural Science | Chien Kuo Senior High School |
 
