@@ -26,7 +26,7 @@ Here is my <a href="/files/CV20210630.pdf" target="_blank">curriculum vitae</a> 
 
 * Bachelor of Scinece in Engineering, Electrical Engineering, National Taiwan University
 * Summer Program, Design Thinking, University of British Columbia
-* High School Diploma, Chien Kuo Senior High School
+* High School Diploma, Mathematic and Natural Science, Chien Kuo Senior High School
 
 ## Publications 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]\[[TSA2020](/files/slides/TSA2020slide_1129.pdf)\]
