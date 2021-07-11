@@ -18,7 +18,6 @@ Keywords: *network science*, *data science*, *computational social science*, *al
 Here is my <a href="/files/CV20210630.pdf" target="_blank">curriculum vitae</a> (last update: June 30th, 2021), and here is a longer, and more tedious, [biography](/longbio/). 
 
 ## Education
-| Degree/Diploma/Program | Major/Concentration | Insitute |
 
 | ------- | ------- | ------------- |
 | Bachelor of Scinece in Engineering | Electrical Engineering | National Taiwan University |
