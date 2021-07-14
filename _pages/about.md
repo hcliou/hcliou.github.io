@@ -34,7 +34,7 @@ Here is my <a href="/files/CV20210630.pdf" target="_blank">curriculum vitae</a> 
 
 * Bachelor of Scinece in Engineering, Electrical Engineering, National Taiwan University
 * Summer Program, Design Thinking, University of British Columbia
-* High School Diploma, Mathematic and Natural Science, Chien Kuo Senior High School
+* High School Diploma, Mathematics and Natural Sciences, Chien Kuo Senior High School
 
 ## Publications 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]\[[TSA2020](/files/slides/TSA2020slide_1129.pdf)\]
@@ -42,9 +42,12 @@ Here is my <a href="/files/CV20210630.pdf" target="_blank">curriculum vitae</a> 
 
 ## Trivia
 
-1. In my not-so-leisure time, I would devote my time to the following topics: 
+1. In my not-so-leisure time, I would devote my time to the following topics, mostly in the form of reading: 
+   * Math
    * Physics
-   * Psychology: especially Critical Psychology and other nonmainstream approaches
+   * Philosophy: especially politcal philosophy, epistemology, and philosophy of science
+   * Psychology: especially critical psychology and other nonmainstream approaches
+   * Psychotherapy and Counseling 
    * Sociology: theory and some emerging topics, such as emotion and friendship
 2. This website is currently designed with the color used in the [Penn logo](https://branding.web-resources.upenn.edu/elements-penn-logo).
 
