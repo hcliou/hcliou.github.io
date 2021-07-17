@@ -2,6 +2,8 @@
 main:
 #  - title: "Publications"
 #    url: /publications/
+  - title: "漢語"
+    url: /about-zhtw/
   - title: "Projects"
     url: /projects/
 
