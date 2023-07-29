@@ -9,11 +9,11 @@ redirect_from:
 ---
 I'm a student/researcher from Taiwan. I received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from College of Electrical Engineering and Computer Science, <span style="color:#bc9631;">National Taiwan University (NTU)</span>. During my time in NTU, I was also trained in Psychology and Sociology.  
 
-My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Algorithmic Fairness**, and I propose to adopt a information-theoretic approach. 
+My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Algorithmic Fairness**, and I propose to utilize the tools from information theory to ensure fairness. 
 
 I have been fortunate to work under the supervision of Prof. <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Hung-Yun Hsieh</a>, Prof. <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Ho-Lin Chen</a>, and Dr. <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Hsuan-Wei Lee</a> during my undergraduate study. 
 
-Keywords: *network science*, *data science*, *computational social science*, *algorithmic fairness*. 
+Keywords: *algorithmic fairness*, *network science*, *data science*, *computational social science*. 
 
 Here is my <a href="/files/CV20230729.pdf" target="_blank">curriculum vitae</a> (last update: July 29th, 2023), and here is a longer, and more tedious, [biography](/longbio/). 
 
