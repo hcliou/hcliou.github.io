@@ -15,7 +15,7 @@ I have been fortunate to work under the supervision of Prof. <a href="http://ccf
 
 Keywords: *algorithmic fairness*, *network science*, *data science*, *computational social science*. 
 
-Here is my <a href="/files/CV20230729.pdf" target="_blank">curriculum vitae</a> (last update: July 29th, 2023), and here is a longer, and more tedious, [biography](/longbio/). 
+Here is my <a href="/files/CV20230729.pdf" target="_blank">curriculum vitae</a> (last update: July 29th, 2023).
 
 ## Education
 
