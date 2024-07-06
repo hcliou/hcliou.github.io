@@ -7,15 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a student/researcher from Taiwan. I received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from College of Electrical Engineering and Computer Science, <span style="color:#bc9631;">National Taiwan University (NTU)</span>. During my time in NTU, I was also trained in Psychology and Sociology.  
+I'm a student/researcher from Taiwan, currently a master student at the Graduate Insitute of <span style="color:#135ccf;">Communication Engineering</span> and <span style="color:#F5A9B8;">Women's and Gender Studies</span> Program, supervised by Prof. <a href="http://cc.ee.ntu.edu.tw/~ihsiangw/" target="_blank"> I-Hsiang Wang </a>. I received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from College of Electrical Engineering and Computer Science, <span style="color:#bc9631;">National Taiwan University (NTU)</span>. During my undergraduate study in NTU, I was also trained in Psychology and Sociology.  
 
 My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Algorithmic Fairness**, and I propose to utilize the tools from information theory to ensure fairness. 
 
 I have been fortunate to work under the supervision of Prof. <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Hung-Yun Hsieh</a>, Prof. <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Ho-Lin Chen</a>, and Dr. <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Hsuan-Wei Lee</a> during my undergraduate study. 
 
-Keywords: *algorithmic fairness*, *network science*, *data science*, *computational social science*. 
+Keywords: *algorithmic fairness*, *information theory*, *network science*, *computational social science*. 
 
 Here is my <a href="/files/CV20230729.pdf" target="_blank">curriculum vitae</a> (last update: July 29th, 2023).
+
+## News
+* I expect to participate in the <a href="http://infotheory.ca/nasit2024/index.html" target="_blank"> 2024 North American School of Information Theory</a>. Seeing you in Ottawa!
 
 ## Education
 
@@ -33,11 +36,12 @@ Here is my <a href="/files/CV20230729.pdf" target="_blank">curriculum vitae</a> 
 -->
 
 * Master Program, Communication Engineering, National Taiwan University, ongoing
+* Certificate Program, Women's and Gender Studies, National Taiwan University, ongoing
 * [Bachelor of Scinece in Engineering](/files/education/NTUEE_BSEdiploma_english_enc.pdf), Electrical Engineering, National Taiwan University, 2021
 * Summer Program, Design Thinking, University of British Columbia, 2017
 * High School Diploma, Mathematics and Natural Sciences, Chien Kuo Senior High School, 2016
 
-## Publications 
+## Preprints 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]\[[TSA2020](/files/slides/TSA2020slide_1129.pdf)\]
 * **Heng-Chien Liou**, and Hung-Yun Hsieh. 2020. "Modeling Friendship Networks among Agents with Personality Traits." *arXiv preprint arXiv:2004.12901*. \[[arXiv](https://arxiv.org/abs/2004.12901)\]
 
