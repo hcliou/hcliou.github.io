@@ -15,7 +15,7 @@ I have been fortunate to work under the supervision of Prof. <a href="http://ccf
 
 Keywords: *algorithmic fairness*, *information theory*, *network science*, *computational social science*. 
 
-Here is my [curriculum vitae](/files/CV20240706.pdf). (last update: July, 2024).
+Here is my <a href="/files/CV20240706.pdf" target="_blank"> curriculum vitae </a>. (last update: July, 2024).
 
 ## News
 * I expect to participate in the <a href="http://infotheory.ca/nasit2024/index.html" target="_blank"> 2024 North American School of Information Theory</a>. Seeing you in Ottawa!
@@ -37,7 +37,7 @@ Here is my [curriculum vitae](/files/CV20240706.pdf). (last update: July, 2024).
 
 * Master Program, Communication Engineering, National Taiwan University, ongoing
 * Certificate Program, Women's and Gender Studies, National Taiwan University, ongoing
-* [Bachelor of Scinece in Engineering](/files/education/NTUEE_BSEdiploma_english_enc.pdf), Electrical Engineering, National Taiwan University, 2021
+* <a href="/files/education/NTUEE_BSEdiploma_english_enc.pdf" target="_blank"> Bachelor of Scinece in Engineering </a>, Electrical Engineering, National Taiwan University, 2021
 * Summer Program, Design Thinking, University of British Columbia, 2017
 * High School Diploma, Mathematics and Natural Sciences, Chien Kuo Senior High School, 2016
 
