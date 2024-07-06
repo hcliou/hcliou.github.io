@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a student/researcher from Taiwan, currently a master student at the Graduate Insitute of <span style="color:#135ccf;">Communication Engineering</span> and Women's and Gender Studies Program, supervised by Prof. <a href="http://cc.ee.ntu.edu.tw/~ihsiangw/" target="_blank"> I-Hsiang Wang </a>. I received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from College of Electrical Engineering and Computer Science, National Taiwan University (NTU). During my undergraduate study in NTU, I was also trained in Psychology and Sociology.  
+I'm a student/researcher from Taiwan, currently a master student at the Graduate Insitute of <span style="color:$thematic-color-1;">Communication Engineering</span> and Women's and Gender Studies Program, supervised by Prof. <a href="http://cc.ee.ntu.edu.tw/~ihsiangw/" target="_blank"> I-Hsiang Wang </a>. I received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from College of Electrical Engineering and Computer Science, National Taiwan University (NTU). During my undergraduate study in NTU, I was also trained in Psychology and Sociology.  
 
 My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Algorithmic Fairness**, and I propose to utilize the tools from information theory to ensure fairness. 
 
