@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a student/researcher from Taiwan, currently a master student at the Graduate Insitute of <span style="color:$thematic-color-1;">Communication Engineering</span> and Women's and Gender Studies Program, supervised by Prof. <a href="http://cc.ee.ntu.edu.tw/~ihsiangw/" target="_blank"> I-Hsiang Wang </a>. I received my B.S.E. in <span style="color:#135ccf;">Electrical Engineering</span> from College of Electrical Engineering and Computer Science, National Taiwan University (NTU). During my undergraduate study in NTU, I was also trained in Psychology and Sociology.  
+I'm a student/researcher from Taiwan, currently a master student at the Graduate Insitute of **Communication Engineering** and **Women's and Gender Studies** Program, supervised by Prof. <a href="http://cc.ee.ntu.edu.tw/~ihsiangw/" target="_blank"> I-Hsiang Wang </a>. I received my B.S.E. in **Electrical Engineering** from College of Electrical Engineering and Computer Science, National Taiwan University (NTU). During my undergraduate study in NTU, I was also trained in Psychology and Sociology.  
 
-My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Algorithmic Fairness**, and I propose to utilize the tools from information theory to ensure fairness. 
+My learning and research experiences span across many disciplines. Broadly Speaking, I am interested in works that bridge between different displines, especially between engineering and social science. Curretnly, my research works focus on **Algorithmic Fairness**, and I propose to utilize the tools from **information theory** to ensure fairness. 
 
 I have been fortunate to work under the supervision of Prof. <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Hung-Yun Hsieh</a>, Prof. <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Ho-Lin Chen</a>, and Dr. <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Hsuan-Wei Lee</a> during my undergraduate study. 
 
 Keywords: *algorithmic fairness*, *information theory*, *network science*, *computational social science*. 
 
-Here is my <a href="/files/CV20240706.pdf" target="_blank">curriculum vitae</a> (last update: July, 2024).
+Here is my [curriculum vitae](/files/CV20240706.pdf). (last update: July, 2024).
 
 ## News
 * I expect to participate in the <a href="http://infotheory.ca/nasit2024/index.html" target="_blank"> 2024 North American School of Information Theory</a>. Seeing you in Ottawa!
