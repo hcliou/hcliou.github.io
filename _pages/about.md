@@ -15,7 +15,7 @@ I have been fortunate to work under the supervision of Prof. <a href="http://ccf
 
 Keywords: *algorithmic fairness*, *information theory*, *network science*, *computational social science*. 
 
-Here is my <a href="/files/CV20240706.pdf" target="_blank"> curriculum vitae </a>. (last update: July, 2024).
+Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a>. (last update: July, 2024).
 
 ## News
 * I expect to participate in the <a href="http://infotheory.ca/nasit2024/index.html" target="_blank"> 2024 North American School of Information Theory</a>. Seeing you in Ottawa!
