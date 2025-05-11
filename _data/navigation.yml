@@ -4,8 +4,8 @@ main:
 #    url: /publications/
   - title: "漢語"
     url: /about-zhtw/
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -18,16 +18,16 @@ main:
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
-  - title: "Learning"
-    url: /learning/
-  - title: "Resources"
-    url: /recommended-resources/
+  # - title: "Learning"
+  #   url: /learning/
+  # - title: "Resources"
+  #   url: /recommended-resources/
     
 #  - title: "Short CV"
 #    url: /cv/
     
-  - title: "Misc"
-    url: /misc/
+  # - title: "Misc"
+  #   url: /misc/
     
 #   - title: "Guide"
 #     url: /markdown/
