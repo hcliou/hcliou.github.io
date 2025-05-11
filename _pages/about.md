@@ -13,7 +13,7 @@ My learning and research experiences span across many disciplines. Broadly Speak
 
 I have been fortunate to work under the supervision of Prof. <a href="http://ccf.ee.ntu.edu.tw/~hyhsieh/" target="_blank">Hung-Yun Hsieh</a>, Prof. <a href="https://www.ee.ntu.edu.tw/profile1.php?id=100129" target="_blank">Ho-Lin Chen</a>, and Dr. <a href="https://sites.google.com/view/hsuanweilee/" target="_blank">Hsuan-Wei Lee</a> during my undergraduate study. 
 
-Keywords: *algorithmic fairness*, *information theory*, *network science*, *computational social science*. 
+Keywords: *algorithmic fairness*, *information theory*, *gender studies*. 
 
 Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a>. (last update: February, 2025).
 
@@ -41,9 +41,13 @@ Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a
 * Summer Program, Design Thinking, University of British Columbia, 2017
 * High School Diploma, Mathematics and Natural Sciences, Chien Kuo Senior High School, 2016
 
+
+
+<!---
 ## Preprints 
 * **Heng-Chien Liou**, and Hsuan-Wei Lee. 2020. “Social Contagion and Associative Diffusion on Multilayer Networks.” *arXiv preprint arXiv:2011.07746*. \[[arXiv](https://arxiv.org/abs/2011.07746)\]\[[TSA2020](/files/slides/TSA2020slide_1129.pdf)\]
 * **Heng-Chien Liou**, and Hung-Yun Hsieh. 2020. "Modeling Friendship Networks among Agents with Personality Traits." *arXiv preprint arXiv:2004.12901*. \[[arXiv](https://arxiv.org/abs/2004.12901)\]
+-->
 
 <!---
 ## Trivia
