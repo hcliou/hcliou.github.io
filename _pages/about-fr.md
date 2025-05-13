@@ -1,12 +1,12 @@
 ---
 permalink: /about-fr/
-title: "Heng-Chien 'Leo' Liou 劉衡謙"
+title: "Heng-Chien 'Léo' Liou 劉衡謙"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
 ---
 
-Je m'appelle Leo et je suis étudiant-chercheur à l’Université nationale de Taïwan. Actuellement, je poursuis un master en génie des communications ainsi qu’un certificat en études de genre. Mon directeur de mémoire est le professeur I-Hsiang Wang. J’ai obtenu une licence ès sciences (B.S.E.) en génie électrique dans le même institut.
+Je m'appelle Léo et je suis étudiant-chercheur à l’Université nationale de Taïwan. Actuellement, je poursuis un master en génie des communications ainsi qu’un certificat en études de genre. Mon directeur de mémoire est le professeur I-Hsiang Wang. J’ai obtenu une licence ès sciences (B.S.E.) en génie électrique dans le même institut.
 
 <!---
 
