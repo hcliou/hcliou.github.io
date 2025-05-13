@@ -38,9 +38,12 @@ Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a
 
 ## Expériences professionnelles
 
-- **Assistant d’enseignement**, Mathématiques discrètes — *2025*  
-- **Assistant d’enseignement**, Structures de données — *2024*  
-- **Assistant d’enseignement**, Théorie de l’information — *2023*
+- **Assistant d’enseignement**   
+  - Mathématiques discrètes — *2025*  
+  - Structures de données — *2024*  
+  - Théorie de l’information — *2023*
+
+
 
 
 
