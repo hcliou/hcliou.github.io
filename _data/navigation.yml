@@ -4,6 +4,8 @@ main:
 #    url: /publications/
   - title: "漢語"
     url: /about-zhtw/
+  - title: "Français"
+    url: /about-fr/
   # - title: "Projects"
   #   url: /projects/
 
