@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-Je m'appelle Leo, et suis etudiant-chercheur à l'Université nationale de Taiwan. Maintenent, j'étudie un master en l'ingénierie des communications et pour un certificat d'études de genre. Mon directeur de thèse est Professeur I-Hsiang Wang. J'ai obtenu mon diplôme de Baccalauréat en sciences de l'ingénierie à la même institut. 
+Je m'appelle Leo et je suis étudiant-chercheur à l’Université nationale de Taïwan. Actuellement, je poursuis un master en génie des communications ainsi qu’un certificat en études de genre. Mon directeur de mémoire est le professeur I-Hsiang Wang. J’ai obtenu une licence ès sciences (B.S.E.) en génie électrique dans le même institut.
 
 <!---
 
@@ -22,16 +22,20 @@ Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a
 
 -->
 
+<!---
+
 ## News
 * I expect to participate in the <a href="http://infotheory.ca/nasit2024/index.html" target="_blank"> 2024 North American School of Information Theory</a>. Seeing you in Ottawa!
 
+-->
+## Formations
 
+- **Master en génie des communications**, Université nationale de Taïwan — *en cours*  
+- **Certificat en études de genre**, Université nationale de Taïwan — *en cours*  
+- **Licence ès sciences en génie électrique**, Université nationale de Taïwan — *2021*  
+- **Université d’été en démarche de design (*design thinking*)**, Université de la Colombie-Britannique — *2017*  
+- **Diplôme de fin d’études secondaires**, Lycée Chien Kuo — *2016*
 
-* Master Program, Communication Engineering, National Taiwan University, ongoing
-* Certificate Program, Women's and Gender Studies, National Taiwan University, ongoing
-* <a href="/files/education/NTUEE_BSEdiploma_english_enc.pdf" target="_blank"> Bachelor of Scinece in Engineering </a>, Electrical Engineering, National Taiwan University, 2021
-* Summer Program, Design Thinking, University of British Columbia, 2017
-* High School Diploma, Mathematics and Natural Sciences, Chien Kuo Senior High School, 2016
 
 
 
