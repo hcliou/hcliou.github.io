@@ -36,6 +36,12 @@ Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a
 - **Université d’été en démarche de design (*design thinking*)**, Université de la Colombie-Britannique — *2017*  
 - **Diplôme de fin d’études secondaires**, Lycée Chien Kuo — *2016*
 
+## Expériences professionnelles
+
+- **Assistant d’enseignement**, Mathématiques discrètes — *2025*  
+- **Assistant d’enseignement**, Structures de données — *2024*  
+- **Assistant d’enseignement**, Théorie de l’information — *2023*
+
 
 
 
