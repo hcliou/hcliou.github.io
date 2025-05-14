@@ -30,7 +30,7 @@ Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a
 -->
 ## Formations
 
-- **Master en génie des communications**, Université nationale de Taïwan — *en cours*  
+- **Master en génie des télécommunications**, Université nationale de Taïwan — *en cours*  
 - **Certificat en études de genre**, Université nationale de Taïwan — *en cours*  
 - **Licence ès sciences en génie électrique**, Université nationale de Taïwan — *2021*  
 - **Université d’été en démarche de design (*design thinking*)**, Université de la Colombie-Britannique — *2017*  
