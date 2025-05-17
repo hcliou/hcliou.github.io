@@ -6,6 +6,8 @@ main:
     url: /about-zhtw/
   - title: "Français"
     url: /about-fr/
+  - title: "Deutsch"
+    url: /about-de/
   # - title: "Projects"
   #   url: /projects/
 
