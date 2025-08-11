@@ -36,7 +36,7 @@ Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a
 -->
 
 * Master Program, Communication Engineering, National Taiwan University, ongoing
-* Certificate Program, Women's and Gender Studies, National Taiwan University, ongoing
+* <a href="/files/education/WGS_Certificate_EN.pdf" target="_blank"> Certificate Program </a>, Women's and Gender Studies, National Taiwan University, ongoing
 * <a href="/files/education/NTUEE_BSEdiploma_english_enc.pdf" target="_blank"> Bachelor of Scinece in Engineering </a>, Electrical Engineering, National Taiwan University, 2021
 * Summer Program, Design Thinking, University of British Columbia, 2017
 * High School Diploma, Mathematics and Natural Sciences, Chien Kuo Senior High School, 2016
