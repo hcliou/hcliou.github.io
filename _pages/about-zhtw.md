@@ -1,6 +1,6 @@
 ---
 permalink: /about-zhtw/
-title: "Heng-Chien 'Leo' Liou 劉衡謙"
+title: "劉衡謙 (Helio/Leo)"
 excerpt: "About me"
 author_profile: true
 
