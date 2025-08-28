@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Heng-Chien (Helio/Leo) Liou 劉衡謙"
+title: "Heng-Chien (Helio/Leo) Liou"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
