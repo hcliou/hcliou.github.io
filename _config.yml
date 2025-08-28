@@ -8,10 +8,10 @@
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Heng-Chien (Helio/Leo) Liou"
+title                    : "Heng-Chien (Helio) Liou"
 title_separator          : "-"
-name                     : &name "Heng-Chien (Helio/Leo) Liou"
-description              : &description "Undergraduate Researcher"
+name                     : &name "Heng-Chien (Helio) Liou"
+description              : &description "Graduate Researcher"
 url                      : https://hengchienliou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hengchienliou/hengchienliou.github.io"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Heng-Chien (Helio/Leo) Liou"
+  name             : "Heng-Chien (Helio) Liou"
   avatar           : "ee_undergrad_copy.jpg"
   bio              : "Researcher"
   location         : "Taipei, Taiwan"
