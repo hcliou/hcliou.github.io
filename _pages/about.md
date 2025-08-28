@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Heng-Chien 'Leo' Liou 劉衡謙"
+title: "Heng-Chien (Helio/Leo) Liou 劉衡謙"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -35,9 +35,9 @@ Here is my <a href="/files/CV_2025Feb.pdf" target="_blank"> curriculum vitae </a
 | High School Diploma | Mathematic and Natural Science | Chien Kuo Senior High School |
 -->
 
-* Master Program, Communication Engineering, National Taiwan University, ongoing
-* <a href="/files/education/WGS_Certificate_EN.pdf" target="_blank"> Certificate Program </a>, Women's and Gender Studies, National Taiwan University, ongoing
-* <a href="/files/education/NTUEE_BSEdiploma_english_enc.pdf" target="_blank"> Bachelor of Scinece in Engineering </a>, Electrical Engineering, National Taiwan University, 2021
+* <a href="/files/education/NTUGICE_MSDiploma.pdf" target="_blank">Master of Science</a>, Communication Engineering, National Taiwan University, 2025
+* <a href="/files/education/WGS_Certificate_EN.pdf" target="_blank"> Certificate Program</a>, Women's and Gender Studies, National Taiwan University, 2025
+* <a href="/files/education/NTUEE_BSEdiploma_english_enc.pdf" target="_blank"> Bachelor of Scinece in Engineering</a>, Electrical Engineering, National Taiwan University, 2021
 * Summer Program, Design Thinking, University of British Columbia, 2017
 * High School Diploma, Mathematics and Natural Sciences, Chien Kuo Senior High School, 2016
 
